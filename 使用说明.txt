@@ -1,0 +1,4 @@
+以管理员模式运行ffmpeg配置，一定要出现成功
+运行启动器，填入模式 OpenAI 或者 Claude
+填入OpenAI的api_key
+填入Claude的user token 成员id
